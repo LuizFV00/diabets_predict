@@ -1,1 +1,1 @@
-# diabets_predict
+# diabetes_predict
